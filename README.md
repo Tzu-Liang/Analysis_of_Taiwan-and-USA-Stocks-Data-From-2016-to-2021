@@ -21,7 +21,7 @@ The data we collected in this article is from [Yahoo Finance](https://finance.ya
 <div align=left>
 
 ### Models
-- LSTM (Long Short-Term Memory) is good at dealing with the stock price data since it is in the form of time series and sequential form. Hence, we took its advatanges to built a regressor whose structure and results of are shown below. The root mean errors of the testing data from all of the incorporations are up to scratch. Also, the code of this regressor is available [here](https://github.com/Tzu-Liang/Analysis_of_Taiwan-and-USA-Stocks-Data-From-2016-to-2021/blob/main/lstm-stocks-prediction.ipynb).
+- LSTM (Long Short-Term Memory) is good at dealing with the stock price data since it is in the form of time series and sequential form. Hence, we took its advatanges to build a regressor whose structure and results of are shown below. The root mean errors of the testing data from all of the incorporations are up to scratch. Also, the code of this regressor is available [here](https://github.com/Tzu-Liang/Analysis_of_Taiwan-and-USA-Stocks-Data-From-2016-to-2021/blob/main/lstm-stocks-prediction.ipynb).
 <div align=center>
 <img src="https://github.com/Tzu-Liang/Analysis_of_Taiwan-and-USA-Stocks-Data-From-2016-to-2021/blob/main/0050.png" alt="Workflow" width="600" height="350">
   
