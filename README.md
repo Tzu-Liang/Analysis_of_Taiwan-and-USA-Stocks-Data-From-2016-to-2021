@@ -1,0 +1,1 @@
+# Stocks_2016-2021_in_Taiwan_and_the_US
