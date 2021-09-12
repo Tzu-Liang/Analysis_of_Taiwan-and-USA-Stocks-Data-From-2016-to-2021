@@ -6,7 +6,7 @@ The data we collected in this article is from [Yahoo Finance](https://finance.ya
 ## Results
 ### Machine Learning Workflow
 ### Models
-- LSTM is good at dealing with the stock price data since it is in the form of time series or sequential form.
+- LSTM is good at dealing with the stock price data since it is in the form of time series and sequential form.
 - XGBoost for Regression is an efficient implementation of gradient boosting, and also can be used for time series forecasting as long as time series datasets are transformed into supervised learning problem.
 
 ## Reference
