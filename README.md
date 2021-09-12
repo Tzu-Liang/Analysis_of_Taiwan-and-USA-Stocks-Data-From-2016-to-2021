@@ -21,20 +21,15 @@ The data we collected in this article is from [Yahoo Finance](https://finance.ya
 ### Models
 - LSTM (Long Short-Term Memory) is good at dealing with the stock price data since it is in the form of time series and sequential form. Hence, we took its advatanges to built a regressor whose structure and results of are shown below. Also, the code of this regressor is available [here](https://github.com/Tzu-Liang/Analysis_of_Taiwan-and-USA-Stocks-Data-From-2016-to-2021/blob/main/lstm-stocks-prediction.ipynb).
 <div align=center>
-<img src="https://github.com/Tzu-Liang/Analysis_of_Taiwan-and-USA-Stocks-Data-From-2016-to-2021/blob/main/0050.png" alt="Workflow" width="600" height="350">
-
-<img src="https://github.com/Tzu-Liang/Analysis_of_Taiwan-and-USA-Stocks-Data-From-2016-to-2021/blob/main/SPY.png" alt="Workflow" width="600" height="350">
-
-<img src="https://github.com/Tzu-Liang/Analysis_of_Taiwan-and-USA-Stocks-Data-From-2016-to-2021/blob/main/TSMC.png" alt="Workflow" width="600" height="350">
-
-<img src="https://github.com/Tzu-Liang/Analysis_of_Taiwan-and-USA-Stocks-Data-From-2016-to-2021/blob/main/INTC.png" alt="Workflow" width="600" height="350">
+<img src="https://github.com/Tzu-Liang/Analysis_of_Taiwan-and-USA-Stocks-Data-From-2016-to-2021/blob/main/0050.png" alt="Workflow" width="600" height="500">
 <div align=left> 
-
-
+  
 
 - XGBoost for Regression is an efficient implementation of gradient boosting, and also can be used for time series forecasting as long as time series datasets are transformed into supervised learning problem.
 
 ## Reference
+[1] [Ghosh, P., Neufeld, A., & Sahoo, J.K. (2020). Forecasting directional movements of stock prices for intraday trading using LSTM and random forests. ArXiv, abs/2004.10178.](https://arxiv.org/abs/2004.10178)  
+
 
 ## Related Websites
 [1] [How to Use XGBoost for Time Series Forecasting](https://machinelearningmastery.com/xgboost-for-time-series-forecasting/)  
